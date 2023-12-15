@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(179, 222, 234, 0.8);
+}
+.centerText{
+    text-align: center;
+}
+
+.header{
+    font-size: xx-large;
+}
+
+.playerName{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.stats{
+    font-size: medium;
+    text-decoration: none;
+}
+
+.nav{
+    font-weight: bold;
+    text-decoration: none;
+    color: blue;
+}
+
+.divHeader{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    background-color: rgba(176, 176, 176, 0.3);
+}
+
+.divMain{
+    top: 5px;
+    left: 10px;
+    right: 50px;
+    height: 2100px;
+    background-color: rgba(176, 176, 176, 0.3);
+}
+
+.divBottom{
+    top: 100px;
+    left: 5px;
+    right: 5px;
+    height: 900px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
